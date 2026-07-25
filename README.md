@@ -1,4 +1,4 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+[![@theayushgodara's Holopin board](https://www.holopin.io/@theayushgodara#)](https://www.holopin.io/@theayushgodara#)
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate data analyst from India</h3>
