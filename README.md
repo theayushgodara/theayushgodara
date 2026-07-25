@@ -1,4 +1,4 @@
-[![@theayushgodara's Holopin board](https://www.holopin.io/@theayushgodara#)](https://www.holopin.io/@theayushgodara#)
+[![An image of @theayushgodara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theayushgodara)](https://holopin.io/@theayushgodara)
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate data analyst from India</h3>
