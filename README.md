@@ -1,5 +1,5 @@
 [![An image of @theayushgodara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theayushgodara)](https://holopin.io/@theayushgodara)
-https://www.credly.com/badges/673d5b37-2047-4878-9bcb-150b1d31bed7/public_url
+
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
